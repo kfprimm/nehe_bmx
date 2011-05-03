@@ -1,0 +1,7 @@
+NeHe Code for BlitzMax
+
+Original conversion was completed by Extron,
+http://blitzbasic.com/Community/posts.php?topic=41689
+
+This up-to-date version will compile with the latest BlitzMax (1.42) but should compile as far back as when the BlitzGL module was dropped in favor of the current GLGraphics module. 
+
