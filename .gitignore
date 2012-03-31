@@ -1,1 +1,6 @@
+*.bmx/*
 *.debug*
+*.exe
+bin/*_*
+/*_*
+!/*.bmx
